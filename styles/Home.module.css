@@ -1,3 +1,7 @@
+.jhlgreen {
+  color: #279a82;
+}
+
 .main {
   display: flex;
   flex-direction: column;
@@ -25,7 +29,7 @@
   padding: 1rem 2rem 1rem 2rem;
   width: 75vw;
   border-radius: 0.5rem;
-  border: 1px solid #d9d9e3;
+  border: 1px solid #279a82;
   background: #ffffff;
   color: #000;
   outline: none;
@@ -193,7 +197,7 @@
   height: 65vh;
   background: #ffffff;
   border-radius: 0.5rem;
-  border: 1px solid #d9d9e3;
+  border: 1px solid #279a82;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -259,4 +263,5 @@
     width: 100%;
     text-align: center;
   }
+
 }
